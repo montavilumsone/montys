@@ -1,4 +1,4 @@
-- name: "This is test playbook" 
+- name: Echo
 hosts: localhost 
 connection: local
 tasks:
