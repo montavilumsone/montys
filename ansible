@@ -1,8 +1,8 @@
-- name: Echo
+- name: ''Playbook love''
 hosts: localhost 
 connection: local
 
 tasks:
-     - name: Print text
+     - name: Print debug message
       debug:
-        msg: "The hostname is {{ ansible_net_hostname }} and the OS is {{ ansible_net_version }}"
+        msg: "love"
