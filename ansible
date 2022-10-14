@@ -1,6 +1,7 @@
 - name: Echo
 hosts: localhost 
 connection: local
+
 tasks:
      - name: Print text
       debug:
