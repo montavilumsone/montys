@@ -5,4 +5,4 @@
   tasks:
      - name: Print debug message
        debug:
-         msg: "{{SHARK}}"
+         msg: "{{text}}"
