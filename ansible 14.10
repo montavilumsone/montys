@@ -1,8 +1,0 @@
-- name: ''Playbook love''
-hosts: localhost 
-connection: local
-
-tasks:
-     - name: Print debug message
-      debug:
-        msg: "love"
