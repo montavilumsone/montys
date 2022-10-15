@@ -4,5 +4,5 @@
   
   tasks:
      - name: Print debug message
-      debug:
-        msg: "love"
+       debug:
+         msg: "love"
